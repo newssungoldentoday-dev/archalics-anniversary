@@ -1,5 +1,5 @@
 # Archa License — Anniversary Edition 🎉
-![Anniversary](anniversary-badge.png)
+![Anniversary](header.png)
 
 🎂 1 Year Anniversary — July 2026 — Baguio City to Worldwide!
 
